@@ -1,2 +1,4 @@
 # first-project
-data base 
+data base course
+
+project notes
